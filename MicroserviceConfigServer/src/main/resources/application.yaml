@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: configServer
+  profiles:
+    active: native
+
+server:
+  port: 9090
+
+shiwani:
+  built: sexy
